@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather_app</string>
+    <string name="edit_city">Введите город</string>
+    <string name="press_to_edit_city">Нажмите для ввода города</string>
+    <string name="request_error">Ошибка запроса. Попробуйте повторить позже</string>
+    <string name="incorrect_city">Город введен некорректно</string>
+    <string name="cencel">отмена</string>
+    <string name="OK">OK</string>
+    <string name="select_city">Выберите город нажав на кнопку поиска</string>
+</resources>
